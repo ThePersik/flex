@@ -1,0 +1,45 @@
+.select {
+    background-color: #9A1212;
+    color: white;
+}
+
+.select a {
+    color: white;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.f-text {
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    color: #9A1212;
+    margin-right: 30px;
+}
+
+.comp-content {
+    position: relative;
+    width: 80vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.comp-text {
+    padding-left: 150px;
+    font-size: 32px;
+    text-align: right;
+}
+
+.comp-img {
+    position: absolute;
+    left: -40px;
+    top: 0;
+    width: 15%;
+}
